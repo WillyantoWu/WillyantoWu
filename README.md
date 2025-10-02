@@ -6,11 +6,19 @@
 
 ## 🧑‍💻 Character Info
 
-- 🎯 **Class**: Developer | Explorer of Code
-- 🏆 **Level**: 25
-- 💖 **HP**: ██████████░░ (90%)
-- ⚡ **Mana**: ████████░░░░ (70%)
-- 🎒 **Inventory**: Kopi, Laptop, IDE, Semangat
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120" alt="pixel avatar"/>
+</p>
+
+| Attribute        | Status                                                                      |
+| ---------------- | --------------------------------------------------------------------------- |
+| 🎯 **Class**     | Developer ⚔️ \| Explorer of Code 🗺️                                         |
+| 🏆 **Level**     | 25 ⭐                                                                       |
+| 💖 **HP**        | ![HP Bar](https://progress-bar.dev/90/?title=HP&width=200&color=eb4034)     |
+| ⚡ **Mana**      | ![Mana Bar](https://progress-bar.dev/70/?title=Mana&width=200&color=3498db) |
+| 🎒 **Inventory** | ☕ Kopi \| 💻 Laptop \| 📝 IDE \| 🔥 Semangat                               |
+
+---
 
 ---
 
