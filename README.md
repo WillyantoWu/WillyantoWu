@@ -10,15 +10,15 @@
   <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="150" alt="avatar pixel hero"/>
 </p>
 
-### 🧾 Status  
+### 🧾 Character Status  
 
 | Attribute        | Value                                                                 |
 | ---------------- | --------------------------------------------------------------------- |
-| 🎯 **Class**     | Developer ⚔️ \| Explorer of Code 🗺️                                   |
-| 🏆 **Level**     | 25 ⭐ (Experienced Adventurer)                                        |
-| 💖 **HP**        | ![HP](https://progress-bar.dev/90/?title=HP&width=220&color=eb4034)   |
-| ⚡ **Mana**      | ![Mana](https://progress-bar.dev/70/?title=Mana&width=220&color=3498db)|
-| 🔮 **EXP**       | ![EXP](https://progress-bar.dev/60/?title=EXP&width=220&color=f39c12) |
+| 🎯 **Class**     | 🧑‍💻 Developer ⚔️ \| Explorer of Code 🗺️                                   |
+| 🏆 **Level**     | ⭐ 25 (Experienced Adventurer)                                        |
+| ❤️ **HP**        | <img src="https://img.shields.io/badge/HP-90%25-red?style=for-the-badge"/> |
+| 🔵 **Mana**      | <img src="https://img.shields.io/badge/Mana-70%25-blue?style=for-the-badge"/> |
+| 🟡 **EXP**       | <img src="https://img.shields.io/badge/EXP-60%25-yellow?style=for-the-badge"/> |
 | 🎒 **Inventory** | ☕ Kopi \| 💻 Laptop \| 📝 IDE \| 🔥 Semangat \| 🎧 Musik Coding        |
 
 ---
