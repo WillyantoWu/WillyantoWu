@@ -7,16 +7,19 @@
 ## 🧑‍💻 Character Info
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120" alt="pixel avatar"/>
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="150" alt="avatar pixel hero"/>
 </p>
 
-| Attribute        | Status                                                                      |
-| ---------------- | --------------------------------------------------------------------------- |
-| 🎯 **Class**     | Developer ⚔️ \| Explorer of Code 🗺️                                         |
-| 🏆 **Level**     | 25 ⭐                                                                       |
-| 💖 **HP**        | ![HP Bar](https://progress-bar.dev/90/?title=HP&width=200&color=eb4034)     |
-| ⚡ **Mana**      | ![Mana Bar](https://progress-bar.dev/70/?title=Mana&width=200&color=3498db) |
-| 🎒 **Inventory** | ☕ Kopi \| 💻 Laptop \| 📝 IDE \| 🔥 Semangat                               |
+### 🧾 Status
+
+| Attribute        | Value                                                                            |
+| ---------------- | -------------------------------------------------------------------------------- | --- |
+| 🎯 **Class**     | Developer ⚔️ \| Explorer of Code 🗺️                                              |
+| 🏆 **Level**     | 25 ⭐ (Experienced Adventurer)                                                   |
+| 💖 **HP**        | ![HP](https://progress-bar.dev/90/?title=HP&width=220&color=eb4034&suffix=%)     |
+| ⚡ **Mana**      | ![Mana](https://progress-bar.dev/70/?title=Mana&width=220&color=3498db&suffix=%) |
+| 🔮 **EXP**       | ![EXP](https://progress-bar.dev/60/?title=EXP&width=220&color=f39c12&suffix=%)   |
+| 🎒 **Inventory** | ☕ Kopi \| 💻 Laptop \| 📝 IDE \| 🔥 Semangat \| 🎧 Musik Coding                 |     |
 
 ---
 
