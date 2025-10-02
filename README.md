@@ -1,7 +1,6 @@
-<h1 align="center">🎮 Willyanto Wu | Pecinta Nasiuduk 👋</h1>
-<p align="center">"Coding is my quest, Coffee is my mana potion ☕⚡"</p>
+![WillyantoWu](img/github-header-banner.png)
 
----
+## <p align="center">"Coding is my quest, Coffee is my mana potion ☕⚡"</p>
 
 ## 🧑‍💻 Character Info
 
