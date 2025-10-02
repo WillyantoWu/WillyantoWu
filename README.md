@@ -4,28 +4,26 @@
 
 ---
 
-## 🧑‍💻 Character Info
+## 🧑‍💻 Character Info  
 
 <p align="center">
   <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="150" alt="avatar pixel hero"/>
 </p>
 
-### 🧾 Status
+### 🧾 Status  
 
-| Attribute        | Value                                                                            |
-| ---------------- | -------------------------------------------------------------------------------- | --- |
-| 🎯 **Class**     | Developer ⚔️ \| Explorer of Code 🗺️                                              |
-| 🏆 **Level**     | 25 ⭐ (Experienced Adventurer)                                                   |
-| 💖 **HP**        | ![HP](https://progress-bar.dev/90/?title=HP&width=220&color=eb4034&suffix=%)     |
-| ⚡ **Mana**      | ![Mana](https://progress-bar.dev/70/?title=Mana&width=220&color=3498db&suffix=%) |
-| 🔮 **EXP**       | ![EXP](https://progress-bar.dev/60/?title=EXP&width=220&color=f39c12&suffix=%)   |
-| 🎒 **Inventory** | ☕ Kopi \| 💻 Laptop \| 📝 IDE \| 🔥 Semangat \| 🎧 Musik Coding                 |     |
-
----
+| Attribute        | Value                                                                 |
+| ---------------- | --------------------------------------------------------------------- |
+| 🎯 **Class**     | Developer ⚔️ \| Explorer of Code 🗺️                                   |
+| 🏆 **Level**     | 25 ⭐ (Experienced Adventurer)                                        |
+| 💖 **HP**        | ![HP](https://progress-bar.dev/90/?title=HP&width=220&color=eb4034)   |
+| ⚡ **Mana**      | ![Mana](https://progress-bar.dev/70/?title=Mana&width=220&color=3498db)|
+| 🔮 **EXP**       | ![EXP](https://progress-bar.dev/60/?title=EXP&width=220&color=f39c12) |
+| 🎒 **Inventory** | ☕ Kopi \| 💻 Laptop \| 📝 IDE \| 🔥 Semangat \| 🎧 Musik Coding        |
 
 ---
 
-## ⚔️ Skills
+## ⚔️ Skills  
 
 ```diff
 + Web Development      ██████████░░ (90%)
@@ -33,6 +31,7 @@
 + JavaScript           ███████░░░░░ (65%)
 + Flutter              ██████░░░░░░ (55%)
 + Git/GitHub           █████████░░░ (80%)
+
 ```
 
 🛠️ Tech Stack
