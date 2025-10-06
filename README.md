@@ -14,7 +14,7 @@
 
 | Attribute        | Value                                                                          |
 | ---------------- | ------------------------------------------------------------------------------ |
-| 🎯 **Class**     | 🧑‍💻 Developerrr ⚔️ \| Explorer of Code 🗺️                                       |
+| 🎯 **Class**     | 🧑‍💻 Developer ⚔️ \| Explorer of Code 🗺️                                         |
 | 🏆 **Level**     | ⭐ 25 (Experienced Adventurer)                                                 |
 | ❤️ **HP**        | <img src="https://img.shields.io/badge/HP-90%25-red?style=for-the-badge"/>     |
 | 🔵 **Mana**      | <img src="https://img.shields.io/badge/Mana-70%25-blue?style=for-the-badge"/>  |
@@ -86,32 +86,39 @@
   <img src="https://github-profile-trophy.vercel.app/?username=WillyantoWu&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="trophy"/>
 </p>
 
-🌐 Connect with Me
+## 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/WillyantoWu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://discord.gg/yourserver" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="https://youtube.com/@yourchannel" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WillyantoWu&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/WillyantoWu?label=Followers&style=flat-square&color=brightgreen" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/WillyantoWu?label=Stars&style=flat-square&color=yellow" alt="Stars" />
+</p>
+
  ```
